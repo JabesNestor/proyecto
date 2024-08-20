@@ -11,6 +11,7 @@ Este proyecto se centra en la exploración y modelado de los datos del famoso de
 1. Carga de Datos: Se importan los datos del Titanic y se realiza una limpieza inicial.
 2. Análisis Exploratorio de Datos (EDA): Se exploran las características principales de los datos, buscando patrones y relaciones entre las variables.
 3. Preprocesamiento de Datos: Se transforman y normalizan las características, se manejan los datos faltantes y se crean nuevas variables (features) para mejorar la predicción.
-4. Modelado: Se construyen y se entrenan modelos de Machine Learning como Regresión Logística, Random Forest, y Support Vector Machines (SVM), entre otros.
-5. Evaluación de Modelos: Se evalúan los modelos utilizando métricas como la precisión, recall, y F1-score.
-6. Conclusión: Se selecciona el modelo más adecuado y se discuten los resultados obtenidos.
+4.  Importancia de Características: Se evalúa la importancia de las características para entender cuáles tienen mayor impacto en la predicción.
+5. Modelado: Se construyen y se entrenan modelos de Machine Learning como Regresión Logística, Random Forest, y Support Vector Machines (SVM), entre otros.
+6. Evaluación de Modelos: Se evalúan los modelos utilizando métricas como la precisión, recall, y F1-score.
+7. Conclusión: Se selecciona el modelo más adecuado y se discuten los resultados obtenidos.
